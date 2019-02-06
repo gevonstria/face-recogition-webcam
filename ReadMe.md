@@ -1,3 +1,6 @@
+## In action
+![on start](http://i67.tinypic.com/16hlonk.png)
+
 ## Set up
 
 1. Install cmake by brew
