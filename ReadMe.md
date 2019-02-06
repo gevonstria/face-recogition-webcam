@@ -16,3 +16,7 @@ pip install requirements.txt
 ```
 python face_recognition_true/web_cam_face_recog.py
 ```
+
+## Adding new image datasets
+1. Create a folder under face_db folder named as the subject's name
+2. Put images of subjects under their respective folders
